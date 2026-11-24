@@ -1,0 +1,6 @@
+# Root robots.txt for burhanriaz.github.io (covers every project site on this host)
+User-agent: *
+Allow: /
+
+Sitemap: https://burhanriaz.github.io/sitemap.xml
+Sitemap: https://burhanriaz.github.io/BR-SEO-Skill/sitemap.xml
