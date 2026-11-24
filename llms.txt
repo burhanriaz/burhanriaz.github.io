@@ -1,12 +1,18 @@
 # Burhan Riaz
 
-> Software developer. Projects published on GitHub, including br-web-seo, a free, open-source Agent Skill that turns Claude, ChatGPT, Codex, Gemini, GitHub Copilot or Cursor into an SEO, AEO and GEO auditor.
-
-## Projects
-- [br-web-seo website](https://burhanriaz.github.io/BR-SEO-Skill/): what the skill does, install commands, sample reports
-- [br-web-seo blog](https://burhanriaz.github.io/BR-SEO-Skill/blog/): guides on technical SEO, AI search, content, structured data, performance, local and international SEO, links and audits
-- [br-web-seo llms.txt](https://burhanriaz.github.io/BR-SEO-Skill/llms.txt): detailed summary of the project
-- [br-web-seo source](https://github.com/burhanriaz/BR-SEO-Skill): SKILL.md, references, templates and scripts (MIT)
+> Senior Software Engineer (.NET and Angular) in Lahore, Pakistan, with 5 years of experience building secure, scalable web applications with ASP.NET Core, C#, Angular, SQL Server, PostgreSQL and MongoDB. Open to on-site or remote roles. Author of br-web-seo, an open-source SEO auditing skill for AI agents.
 
 ## Profile
-- [GitHub](https://github.com/burhanriaz): all public repositories
+- [Portfolio](https://burhanriaz.github.io/): experience, skills, selected work and open-source projects
+- [LinkedIn](https://www.linkedin.com/in/burhan-riaz/): professional profile and contact
+- [GitHub](https://github.com/burhanriaz): public repositories
+
+## Experience
+- Senior Software Engineer, NODLAYS, Lahore (Mar 2024 – present): Azure AD B2C and role-based access across .NET Core APIs and Angular, Clean Architecture over a legacy database, REST APIs, Dapper and SQL Server, Microsoft Graph API
+- Associate Software Engineer, NODLAYS (Mar 2023 – Feb 2024): Stripe subscriptions and webhooks, SignalR, document generation, user management
+- Junior .NET Developer, JMM Technologies, Peshawar (Jan 2022 – Feb 2023): Hysabat ERP modules (Sales, Purchase, HR) with ASP.NET Core 6, GraphQL, PostgreSQL
+
+## Projects
+- [br-web-seo website](https://burhanriaz.github.io/BR-SEO-Skill/): Agent Skill that turns Claude, ChatGPT, Codex, Gemini, Copilot or Cursor into an SEO, AEO and GEO auditor
+- [br-web-seo blog](https://burhanriaz.github.io/BR-SEO-Skill/blog/): guides on technical SEO, AI search, structured data, performance and audits
+- [br-web-seo source](https://github.com/burhanriaz/BR-SEO-Skill): MIT licensed
